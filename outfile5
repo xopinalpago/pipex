@@ -1,0 +1,3 @@
+command = wc
+command = -l
+13

@@ -1,0 +1,13 @@
+total 68$
+-rw-r--r-- 1 rmeriau 2023_paris  1858 Jul 24 10:20 Makefile$
+drwxr-xr-x 2 rmeriau 2023_paris  4096 Jul 24 10:17 include$
+-rw-r--r-- 1 rmeriau 2023_paris    16 Aug 25 10:42 input$
+drwxr-xr-x 2 rmeriau 2023_paris  4096 Aug 16 10:23 libft$
+-rw-r--r-- 1 rmeriau 2023_paris    20 Aug 16 12:44 ouput$
+-rw-r--r-- 1 rmeriau 2023_paris     3 Sep  1 11:48 outfile$
+-rw-r--r-- 1 rmeriau 2023_paris    29 Aug 30 11:32 outfile5$
+-rw-r--r-- 1 rmeriau 2023_paris     0 Sep  1 13:35 output$
+-rw-r--r-- 1 rmeriau 2023_paris     2 Aug 25 10:47 output2$
+-rwxr-xr-x 1 rmeriau 2023_paris 27496 Sep  1 11:48 pipex$
+drwxr-xr-x 2 rmeriau 2023_paris  4096 Sep  1 11:48 src$
+drwxr-xr-x 2 rmeriau 2023_paris  4096 Jul 24 10:40 src_bonus$
